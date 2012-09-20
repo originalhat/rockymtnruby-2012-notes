@@ -29,3 +29,17 @@
 - "Most people err on the side of being too unwilling to extract classes… lots of tiny classes-- that's the sign of a good object-oriented system."
 - post-refactor: "what every programmer's favorite part of their job?" audience: "DELETING CODE!"
 
+## Justin Searls
+
+<http://about.me/searls>
+
+### To Mock or Not to Mock
+
+- "test double-- think 'stunt double'", e.g. <http://martinfowler.com/bliki/TestDouble.html>
+- "GOOS" book - Growing Object Oriented Software
+- "TDD gives rich feedback about abstractions" - e.g. 15-line mock set-ups are a smell.
+- test doubles conflict w/ "The Rails Way" due to Rails architecture-- difficult to isolate an object
+- "surface area: number of attributes and accessible methods"
+- large surface area makes isolation hard!
+- <http://searls.testdouble.com/2011/06/03/whats-wrong-with-rubys-test-doubles/>
+
