@@ -9,6 +9,9 @@
 
 ### Let's Talk Concurrency
 
+<https://speakerdeck.com/u/plataformatec/p/le>
+
+
 ## Josh Nichols
 
 - <https://twitter.com/techpickles>
@@ -53,7 +56,9 @@ Pivotal Labs
 
 works @ Kicksend
 
-### Building in Rails, Backbone and Coffeescript
+### Building Rich Client Apps in Rails, Backbone and Coffeescript
+
+- <https://speakerdeck.com/u/dk/p/building-rich-client-apps>
 
 - [jbuilder](https://github.com/rails/jbuilder)
   - "Create JSON structures via a Builder-style DSL"
@@ -103,7 +108,7 @@ paperless post, nyc
 
 @gordondiggs
 
-#### ALgorithms
+#### Algorithms
 
 database and sinatra app for his (vinyl) record collection
 
@@ -133,4 +138,18 @@ javascript `this`
 consultant and programmer
 
 ### Expert Consulting
+
+recalling his experience consulting @ Hash Rocket
+
+"present a unified front to the client"
+
+"don't present too many options-- clients always choose the wrong one."
+
+"reveal more to more technical clients."
+
+## Russ Olsen
+
+@russolsen
+
+### Eloquent Expressions
 
