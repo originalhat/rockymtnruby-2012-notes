@@ -1,4 +1,4 @@
-# 2012 Rocky Mountain Ruby
+# 2012 Rocky Mountain Ruby - Day 1
 
 - <http://twitter.com/i/#!/search/realtime/rmr12>
 - "[once again i am keeping notes for #rmr12](http://twitter.com/mcmire/status/248809825029484545) here:
@@ -8,8 +8,9 @@
 - <http://twitter.com/sandimetz>
 - <http://www.informit.com/store/product.aspx?isbn=0321721330>
 - ["Please buy through my link, I make selling my book than I did writing it(!)"](http://www.poodr.info/)
-### Go Ahead, Make a Mess
 
+### Go Ahead, Make a Mess
+- <https://speakerdeck.com/u/skmetz/p/go-ahead-make-a-mess-sandi-metz-rocky-mountain>
 - using OO to clean up messes
 - public and private APIs
 - "design happens from the message-senders' point of view"
